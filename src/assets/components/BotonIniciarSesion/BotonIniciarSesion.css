@@ -1,0 +1,28 @@
+.BotonIniciarSesion {
+    background-color: #0a66c2;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-direction: column;
+    width: 408px;
+    height: 54px;
+    height: min-content;
+    min-height: 48px;
+    border-radius: 24px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 140px;
+    padding-right: 24px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+.BotonIniciarSesion:hover {
+    background-color: #004182;
+}
+
+
+
