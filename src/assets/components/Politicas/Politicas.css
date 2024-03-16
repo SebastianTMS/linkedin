@@ -1,6 +1,6 @@
 .politicas p{
     font-size: 12px;
-    color: rgba(0, 0, 0, 0.355);
+    color: rgba(0, 0, 0, 0.548);
     margin: 2px;
 }
 
@@ -13,9 +13,4 @@
 .politicas strong {
     color: #0a66c2;
     font-weight: 500;
-}
-
-.separador {
-    width: 100px;
-    border: 1px solid;
 }
